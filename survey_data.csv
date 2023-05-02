@@ -1,0 +1,11 @@
+answer_to_Q1,answer_to_Q2,answer_to_Q3,answer_to_Q4,answer_to_Q5,age,gender,occupation
+5,1,8,Difference-honoring feminism,No,22,Male,Student
+6,1,10,Difference-honoring feminism,No,18,Male,Student
+10,1,2,Difference-denying feminism,No,19,Female,Student
+1,1,1,Difference-honoring feminism,No,53,Male,Engineer
+2,7,3,Difference-removing feminism,No,19,Female,Student
+1,10,1,Difference-removing feminism,No,35,Male,Engineer
+2,2,10,Difference-honoring feminism,No,21,Female,Cashier
+1,5,10,Difference-removing feminism,No,21,Male,Student
+4,5,8,Difference-removing feminism,No,21,Male,Student 
+2,3,8,Difference-honoring feminism,No,21,,Student
